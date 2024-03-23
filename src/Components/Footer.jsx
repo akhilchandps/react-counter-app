@@ -5,8 +5,8 @@ function Footer() {
     <div>   <MDBFooter bgColor='' className='text-center text-lg-left' style={{marginTop:"-23px"}}>
     <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
       &copy; {new Date().getFullYear()} Copyright:{' '}
-      <a className='text-dark' href='https://mdbootstrap.com/'>
-        MDBootstrap.com
+      <a className='text-light' href='https://mdbootstrap.com/'>
+        CounterApp.com
       </a>
     </div>
   </MDBFooter></div>
